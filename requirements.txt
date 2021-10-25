@@ -1,0 +1,14 @@
+gunicorn
+flask
+gensim===3.8.3
+numpy
+pandas
+nltk
+spacy
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.1.0/en_core_web_sm-3.1.0-py3-none-any.whl
+beautifulsoup4
+flask_cors
+spacy
+sklearn
+mysql-connector-python
+googletrans===3.1.0a0
